@@ -79,7 +79,7 @@ javac -version
 1.  Clone this repository:
 
     ``` bash
-    git clone https://github.com/your-username/Car_rental_system.git
+    git clone https://github.com/Sumitgupta2005/Car_rental_system.git
     ```
 
 2.  Open the project folder:
@@ -145,6 +145,6 @@ After starting the program, choose an option from the menu:
 
 ## Author
 
-**Your Name**
+**Sumit Gupta**
 
 If you found this project useful, feel free to star the repository!
